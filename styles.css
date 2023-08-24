@@ -1,2 +1,14 @@
 
 /* Your CSS Code here. */
+table,th,td{
+	border : 1px solid;
+	border-collapse: collapse;
+	width : 550px;
+	text-align : right;
+}
+.part{
+	text-align : left;
+}
+th{
+	text-align : left;
+}
